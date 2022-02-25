@@ -14,4 +14,5 @@ class MainActivity : AppCompatActivity() {
     // mais alguma coisa...
     //login
     //registar
+    // página de passsword reset criada
 }
