@@ -13,4 +13,5 @@ class MainActivity : AppCompatActivity() {
     // alteração no github
     // mais alguma coisa...
     //login
+    //registar
 }
